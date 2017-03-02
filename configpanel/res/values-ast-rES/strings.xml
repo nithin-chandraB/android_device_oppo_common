@@ -40,11 +40,6 @@
   <string name="alert_category_title">Alertes</string>
   <string name="action_category_title">Aiciones</string>
   <!-- O-Click notification -->
-  <string name="oclick_locator_notification_title">Llocalizador del teléfonu O-Click</string>
-  <string name="oclick_locator_notification_text">L\'alerta del llocalizador ta sonando. Toca pa silenciar</string>
-  <string name="oclick_notification_title_connected">O-Click coneutáu</string>
-  <string name="oclick_notification_title_disconnected">O-Click desconeutáu</string>
-  <string name="oclick_notification_content_disconnected">Primi\'l botón O-Click pa volver a coneutar</string>
   <!-- Notification slider -->
   <string name="notification_slider_category_title">Barra eslizante d\'avisos</string>
   <string name="notification_slider_selection_dialog_title">Aición</string>
